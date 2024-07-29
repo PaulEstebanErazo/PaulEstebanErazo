@@ -1,0 +1,7 @@
+- 👋 Hola, Soy @PaulEstebanErazo
+- 👀 Me apasiona la mecánica, la programación y la electrónica, especialmente sus múltiples aplicaciones en nuestra era tecnológica.
+- 🌱 Actualmente estoy aprendiendo a programar con el ESP32 y explorando sus diversas aplicaciones. Además, estoy adquiriendo conocimientos sobre impresión 3D.
+- 💞️ Estoy buscando colaborar en proyectos de ingeniería y desarrollo de prácticas de laboratorio innovadoras, con el fin de conseguir experiencia para el mundo laboral. 
+- 📫 Puedes contactarme a través de mi correo: paul.erazo01@epn.edu.ec
+- 😄 Pronombres: Paul/Esteban
+- ⚡ Dato curioso: En mi tiempo libre, disfruto jugar videjuegos para algún día poder innovar en el mío. Además, me encanta escuchar música y bailar. 
